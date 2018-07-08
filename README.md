@@ -1,3 +1,3 @@
 # HelloWorld
 To learn features of github<br/>
-Commited directly to master branch
+Commited not directly to master branch.
